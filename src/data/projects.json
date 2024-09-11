@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Coming Soon",
+    "imageSrc": "projects/project.png",
+    "description": "I'm currently setting up my other projects, till then this is placeholder.",
+    "skills": ["Tech1", "Tech2", "Tech3"],
+    "demo": "#",
+    "source": "#"
+  }
+]
