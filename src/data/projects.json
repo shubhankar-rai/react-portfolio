@@ -1,10 +1,18 @@
 [
   {
-    "title": "Coming Soon",
-    "imageSrc": "projects/project.png",
-    "description": "I'm currently setting up my other projects, till then this is placeholder.",
-    "skills": ["Tech1", "Tech2", "Tech3"],
-    "demo": "#",
-    "source": "#"
+    "title": "To Do List App",
+    "imageSrc": "projects/todolist.png",
+    "description": "A todo list application with state management and local storage",
+    "skills": ["React", "Redux", "MUI"],
+    "demo": "https://sr-todo-app.pages.dev/",
+    "source": "https://github.com/shubhankar-rai/todo-app-react"
+  },
+  {
+    "title": "Personal Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "description": "A personal portfolio to showcase my experience and projects",
+    "skills": ["React", "CSS", "HTML"],
+    "demo": "https://shubhankarrai.pages.dev/",
+    "source": "https://github.com/shubhankar-rai/react-portfolio"
   }
 ]
