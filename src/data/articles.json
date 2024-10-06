@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Solving Leetcode Problem 560: Subarray Sum Equals K",
+    "description": "In this article, I'll walk through my solution to the problem using hashmaps and prefix sums in Java.",
+    "topics": ["Hashmaps", "Prefix Sum", "Java"],
+    "source": "https://medium.com/@shubhankarrai99/solving-leetcode-problem-560-subarray-sum-equals-k-0233323db47e"
+  },
+  {
+    "title": "Solving Leetcode Problem 2239: Find the Closest Number to Zero",
+    "description": "In this article, we’ll break down the problem and provide an efficient solution in Java using a simple and intuitive approach.",
+    "topics": ["Arrays", "Leetcode", "Java"],
+    "source": "https://medium.com/@shubhankarrai99/solving-leetcode-problem-2239-find-the-closest-number-to-zero-b8e4bd1c6285"
+  },
+  {
+    "title": "Solving the 3Sum Problem: A Two-Pointer Approach",
+    "description": "In this article, I’ll walk you through the problem statement, my approach to solving it, and an optimized Java solution.",
+    "topics": ["Two Pointers", "Arrays", "Java"],
+    "source": "https://medium.com/@shubhankarrai99/solving-the-3sum-problem-a-two-pointer-approach-a808ac42ab42"
+  }
+]
