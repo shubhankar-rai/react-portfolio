@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Solving Leetcode Problem 2239: Find the Closest Number to Zero",
+    "description": "In this article, we’ll break down the problem and provide an efficient solution in Java using a simple and intuitive approach.",
+    "topics": ["Arrays", "Leetcode", "Java"],
+    "source": "https://medium.com/@shubhankarrai99/solving-leetcode-problem-2239-find-the-closest-number-to-zero-b8e4bd1c6285"
+  },
+  {
+    "title": "LeetCode Problem #3: Longest Substring Without Repeating Charaters",
+    "description": "In this article, we’ll find the length of the longest substring that contains no repeating characters.",
+    "topics": ["String", "Sliding Window", "Hashmaps"],
+    "source": "https://medium.com/@shubhankarrai99/leetcode-problem-3-longest-substring-without-repeating-charaters-cfaf1ecd9cf5"
+  }
+]
