@@ -33,6 +33,16 @@ export const Contact = () => {
             Github
           </a>
         </li>
+        <li className={styles.link}>
+          <img
+            src={getImageUrl("contact/mediumicon.svg")}
+            alt="Medium icon"
+            className={styles.medium}
+          />
+          <a href="https://www.medium.com/@shubhankarrai99" target="_blank">
+            Medium
+          </a>
+        </li>
       </ul>
     </footer>
   );

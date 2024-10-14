@@ -46,6 +46,20 @@
   letter-spacing: 1.5px;
 }
 
+.separator {
+  position: relative;
+  min-width: 2px;
+  max-width: 2px;
+  background-color: var(--color-text);
+  display: inline-block;
+  margin: 0 0.25%;
+}
+
+.medium {
+  width: 50px;
+  height: 50px;
+}
+
 @media screen and (max-width: 830px) {
   .container {
     flex-direction: column;
