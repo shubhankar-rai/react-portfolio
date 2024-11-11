@@ -6,15 +6,15 @@
     "source": "https://medium.com/@shubhankarrai99/solving-leetcode-problem-560-subarray-sum-equals-k-0233323db47e"
   },
   {
-    "title": "LeetCode Problem #3: Longest Substring Without Repeating Charaters",
-    "description": "In this article, we’ll find the length of the longest substring that contains no repeating characters.",
-    "topics": ["String", "Sliding Window", "Hashmaps"],
-    "source": "https://medium.com/@shubhankarrai99/leetcode-problem-3-longest-substring-without-repeating-charaters-cfaf1ecd9cf5"
-  },
-  {
     "title": "LeetCode Problem 97: Interleaving Strings — Explained",
     "description": "In this article, I’ll walk you through the problem statement, my approach to solving it, and an optimized Java solution.",
     "topics": ["Strings", "DFS", "DP"],
     "source": "https://medium.com/@shubhankarrai99/leetcode-problem-97-interleaving-strings-explained-b77c7a0618ec"
+  },
+  {
+    "title": "Solving the 3Sum Problem: A Two-Pointer Approach",
+    "description": "In this article, I’ll walk you through the problem statement, my approach to solving it, and an optimized Java solution.",
+    "topics": ["Two Pointers", "Arrays", "Java"],
+    "source": "https://medium.com/@shubhankarrai99/solving-the-3sum-problem-a-two-pointer-approach-a808ac42ab42"
   }
 ]
