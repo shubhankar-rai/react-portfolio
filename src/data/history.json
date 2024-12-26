@@ -1,18 +1,28 @@
 [
   {
-    "role": "Software Engineer 1",
-    "organisation": "Escriba",
-    "startDate": "July, 2023",
+    "role": "Software Developer 2",
+    "organisation": "Konrad Group",
+    "startDate": "Dec, 2024",
     "endDate": "Present",
     "experiences": [
-      "Currently working on the initiative to rewrite the entire platform into a Monorepo architecture.",
+      "Working as a fullstack developer using Angular, React, NodeJS & Spring Boot"
+    ],
+    "imageSrc": "history/konrad.png"
+  },
+  {
+    "role": "Software Engineer 2",
+    "organisation": "Escriba",
+    "startDate": "July, 2023",
+    "endDate": "Dec, 2024",
+    "experiences": [
+      "Worked on the initiative to rewrite the entire platform into a Monorepo architecture.",
       "Delivered a robust document management system handling 40 million documents",
       "Worked on the integration of AI into the Platform and Suite"
     ],
     "imageSrc": "history/escriba.jpg"
   },
   {
-    "role": "PS Intern",
+    "role": "Software Engineer Intern",
     "organisation": "Software AG",
     "startDate": "Feb, 2023",
     "endDate": "July, 2023",

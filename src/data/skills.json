@@ -8,6 +8,10 @@
     "imageSrc": "skills/css.png"
   },
   {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.svg"
+  },
+  {
     "title": "Angular",
     "imageSrc": "skills/angular.png"
   },
@@ -34,5 +38,9 @@
   {
     "title": "MongoDB",
     "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "NodeJS",
+    "imageSrc": "skills/nodejs.svg"
   }
 ]
